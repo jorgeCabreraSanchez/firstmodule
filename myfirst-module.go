@@ -3,5 +3,5 @@ package firstmodule
 import "fmt"
 
 func Hello() {
-	fmt.Print("Hi!")
+	fmt.Print("Hi v2! \n")
 }
